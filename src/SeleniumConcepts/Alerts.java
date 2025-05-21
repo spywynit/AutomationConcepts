@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class Alerts {
   @Test
   public void f() throws Exception {
-	  
+	  //
 	  ChromeDriver driver=new ChromeDriver();   //  chrome browseer
 		
 	  	driver.manage().window().maximize();  // maximizing
