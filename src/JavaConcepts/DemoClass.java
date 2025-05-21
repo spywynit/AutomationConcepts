@@ -2,7 +2,7 @@ package JavaConcepts;
 
 public class DemoClass {
 	
-	int x=10;  // instance variable
+	int x=10;  /// instance variable
 	
 	static int z=20;  // class or static variable
 	
